@@ -7,7 +7,8 @@ Test prgram for HistGradientBoosting
 AnacondaでJupyterを使用しました。
 
 #scikit-learnヴァージョン
-まずはscikit-learnヴァージョン。v0.21.1に更新してテストしました
+まずはscikit-learnヴァージョン。v0.21.1に更新してテストしました。
+
 Anaconconda prompt　でv0.21.1に更新:
 ```
 pip install scikit-learn==0.21.1
